@@ -28,5 +28,5 @@ I aim to build a career in technology and data analytics by gaining more experti
 ---
 
 ## 📫 Get in Touch  
-- **LinkedIn:** [https://www.linkedin.com/in/mehmet-can-kara-55a3581b7/](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/mehmet-can-kara-55a3581b7](#)  
 - **Email:** mehmetcankara441@gmail.com
