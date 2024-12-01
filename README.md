@@ -18,7 +18,7 @@ I am interested in data analytics and technologies. I am constantly learning new
 ---
 
 ## 📜 Certifications  
-📄 [Data Analysis Certificate](main/sertifika.pdf)  
+📄 [Data Analysis Certificate](https://github.com/mmckara/mmckara/sertifika/main/sertifika.pdf)  
 
 ---
 
