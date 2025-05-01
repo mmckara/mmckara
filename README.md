@@ -23,7 +23,7 @@ I am interested in data analytics and technologies. I am constantly learning new
 ---
 
 ## 🌟 About Me  
-I aim to build a career in data analytics and data mining by gaining more expertise in these fields.  
+I aim to build a career in data analytics by gaining more expertise in these fields.  
 
 ---
 
